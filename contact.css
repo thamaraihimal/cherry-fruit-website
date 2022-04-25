@@ -1,0 +1,43 @@
+body{
+    background-color: black;
+}
+.con1{
+    font-size: 50px;
+    font-family: sans-serif;
+    font-style: italic;
+    color: red;
+}
+span{
+    color: white;
+}
+.con2{
+    color: red;
+    font-size: 20px;
+}
+.con3{
+    color: red;
+}
+label{
+    font-size: 25px;
+    margin:20px;
+}
+input{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 10px;
+    background-color: wheat;
+    /* position: absolute; */
+}
+.sum{
+     position: absolute;
+     left: 170px;
+     margin: 20px;
+     padding: 10px;
+     color: red;
+     transition: 0.4s;
+}
+.sum:hover{
+      background-color: black;
+}
+
